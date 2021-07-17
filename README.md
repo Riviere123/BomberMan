@@ -1,7 +1,5 @@
 # BomberMan
 
-This was a simple controls proof of concept.
-
 Controlls:
 
 universal:
